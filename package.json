@@ -1,0 +1,24 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "\"# react-test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieKapitonova/react-test.git"
+  },
+  "author": "Natalie Kapitonova <natalie_kapitonova@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalieKapitonova/react-test/issues"
+  },
+  "homepage": "https://github.com/NatalieKapitonova/react-test#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1"
+  }
+}
